@@ -8,4 +8,7 @@ System.setproperty(“webdriver.chrome.driver”,”.location of chrome.exe”);
 Webdriver d1=new ChromeDriver();
 d1.get(“www.gmail.com”);
 d1.findElement(BY.className(“whsOnd zHQkBf”)).sendKeys(“vanicarensave”);
+d1.findElement(BY.className(“RveJvd snByac”).click();
+
+
 
