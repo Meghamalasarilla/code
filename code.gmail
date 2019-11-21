@@ -1,4 +1,4 @@
-Gmail login and navigating to carensave:
+Gmail login and navigating to carensave and candy:
 
 Class Test1
 {
@@ -12,7 +12,8 @@ d1.findElement(BY.className(“RveJvd snByac”).click();
 d1.findElement(BY.className(“RveJvd snByac”).click();
 d1.findElement(BY.className(“whsOnd zHQkBf”).sendKeys(“*****”);
 d1.findElement(BY.className(“CwaK9”)).click();
-d1.get("www.carensave.com")
+d1.get("www.carensave.com");
+//Hello candy
 
 
 
